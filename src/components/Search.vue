@@ -1,5 +1,3 @@
-var yend = new Date().getFullYear();
-var ystart = 1900;
 <template>
   <div class="search">
     <h2> Type a Term to Search NASA Image Database </h2>
